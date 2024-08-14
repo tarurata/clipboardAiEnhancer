@@ -1,0 +1,33 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+.env
+
+# IDE-specific
+.vscode/
+.idea/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Project-specific
+*.txt
+*.csv
+*.json
+
+# Dependency management
+pip-lock.txt
+requirements.txt
+
+# Ignore API keys and sensitive information
+.env
